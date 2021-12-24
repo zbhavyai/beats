@@ -1,9 +1,15 @@
 # Beats
 
-See it live at [zbhavyai.github.io/showcase/beats/](https://zbhavyai.github.io/showcase/beats/)
+Animated beats. See it live [here](https://zbhavyai.github.io/beats/).
 
 
+## How to run
 
-## Usage
+1. Clone the repository on your machine
 
-This has no usage :stuck_out_tongue_winking_eye:
+2. Open the [index.html](index.html) file in your browser
+
+
+## Screenshots
+
+![Demo](screenshots/beats.png)
