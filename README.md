@@ -12,4 +12,4 @@ Animated beats. See it live [here](https://zbhavyai.github.io/beats/).
 
 ## Screenshots
 
-![Demo](screenshots/beats.png)
+<img src="screenshots/beats.png" alt="Beats" width="300"/>
